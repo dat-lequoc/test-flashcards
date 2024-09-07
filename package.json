@@ -4,6 +4,11 @@
     "build": "next build",
     "start": "next start"
   },
+  "scripts": {
+    "dev": "next dev",
+    "build": "next build",
+    "start": "next start"
+  },
   "name": "test_flashcard",
   "version": "1.0.0",
   "description": "Flashcard generator application",
