@@ -1,6 +1,6 @@
 import React from 'react';
 import ReactDOM from 'react-dom/client';
-import MainInterface from './main-interface';
+import MainInterface from './MainInterface';
 
 const root = ReactDOM.createRoot(document.getElementById('root'));
 root.render(
